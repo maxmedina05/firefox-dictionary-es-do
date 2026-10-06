@@ -1,0 +1,37 @@
+# Dominican words missing from RLA-ES es_DO. Format: word/FLAGS (G = -a feminine, S = plurals).
+# transport
+guagua/S
+guaguero/GS
+motoconcho/S
+motoconchista/S
+yipeta/S
+# people, slang
+tíguere/GS
+tigueraje/S
+pariguayo/GS
+chercha/S
+cocolo/GS
+# food, drink
+sancocho/S
+mangú/S
+locrio/S
+yaniqueque/S
+chimichurri/S
+pegao/S
+quipe/S
+mamajuana/S
+chinola/S
+tayota/S
+yautía/S
+molondrón/S
+guandul/S
+# places, shops
+colmadón/S
+colmadero/GS
+cibaeño/GS
+capitaleño/GS
+# music
+bachatero/GS
+merenguero/GS
+dembow/S
+dembowsero/GS

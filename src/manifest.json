@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "dictionaries": {
+    "es-DO": "dictionaries/es-DO.dic"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "es-DO@dictionaries.addons.mozilla.org"
+    }
+  },
+  "version": "2.9.1",
+  "name": "Diccionario de Español/República Dominicana",
+  "description": "Corrector ortográfico de español de la República Dominicana (es-DO), basado en el diccionario del proyecto RLA-ES. Distribuido bajo MPL 2.0.",
+  "author": "Proyecto RLA-ES"
+}

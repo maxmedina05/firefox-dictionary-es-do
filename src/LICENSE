@@ -1,0 +1,6 @@
+This add-on redistributes the es-DO spell-checking dictionary from the
+RLA-ES project (https://github.com/sbosio/rla-es), which is offered under
+GPLv3+, LGPLv3+ or MPL 1.1+ (see dictionaries/LICENSE.md).
+
+This package elects the Mozilla Public License, version 2.0:
+https://mozilla.org/MPL/2.0/
